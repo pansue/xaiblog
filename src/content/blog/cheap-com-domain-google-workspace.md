@@ -1,10 +1,10 @@
 ---
-title: 'A .com for about 11 yuan a year? How the Google Workspace route works'
-description: 'A summary of a video tutorial on registering a .com for about 75 Turkish lira a year through Google Workspace, moving it to Cloudflare, and keeping only the domain.'
+title: 'A .com for about $1 a year? How the Google Workspace route works'
+description: 'A summary of a video tutorial on registering a .com for about $1 a year (75 Turkish lira) through Google Workspace, moving it to Cloudflare, and keeping only the domain.'
 pubDate: 'Nov 17 2026'
 ---
 
-A .com domain usually costs around 70 to 150 yuan a year to renew, depending on the registrar. This video shows a very different number: about **11 yuan a year**.
+A .com domain usually costs around $10 to $21 a year to renew, depending on the registrar. This video shows a very different number: about **$1 a year**.
 
 The video is [每年仅需11元！通过 Google 官方渠道低价注册 .com 域名全教程 | 可托管至Cloudflare](https://youtu.be/wWqbL-CnHFg) — "Only 11 yuan a year! A full tutorial on registering a .com at a low price through Google's official channel, hostable on Cloudflare" — by SEVEN. It is in Chinese, with this timeline:
 
@@ -19,16 +19,16 @@ This post is a summary of what the video teaches, not a word-for-word transcript
 
 ## The headline number
 
-The price in the video is **75 Turkish lira a year for a .com**, roughly 10 to 15 yuan at recent exchange rates, usually quoted as about 11 yuan.
+The price in the video is **75 Turkish lira a year for a .com**, roughly $1 to $2 at recent exchange rates — usually quoted as about 11 yuan, or about $1.
 
-For comparison, the video and its companion guide put the usual renewal prices roughly like this:
+For comparison, the video and its companion guide put the usual renewal prices roughly like this, in dollars converted from the yuan prices they give, at about 7 yuan to $1:
 
 | Registrar | Renewal, roughly |
 | --- | --- |
-| GoDaddy | About 150 yuan a year, after a cheap first year |
-| Namecheap | About 120 yuan a year |
-| Cloudflare Registrar | About 75 yuan a year |
-| Google Workspace, Turkey pricing | About 75 lira, about 11 yuan a year |
+| GoDaddy | About $21 a year, after a cheap first year |
+| Namecheap | About $17 a year |
+| Cloudflare Registrar | About $11 a year |
+| Google Workspace, Turkey pricing | About 75 lira, about $1 a year |
 
 The saving is not a cheaper first year. It is the renewal price staying low, year after year, if the regional pricing still applies.
 
@@ -118,7 +118,7 @@ The video also looks at its limits, including a smaller context window and usage
 
 ## Is it worth it?
 
-If you want a .com for a personal site or a small project, and you are happy to follow a multi-step flow across Workspace, Squarespace, and Cloudflare, the saving is real: roughly 60 yuan a year compared with a typical 70-plus yuan renewal, every year the pricing holds.
+If you want a .com for a personal site or a small project, and you are happy to follow a multi-step flow across Workspace, Squarespace, and Cloudflare, the saving is real: roughly $9 a year compared with a typical $10-plus renewal, every year the pricing holds.
 
 If you want the simplest possible purchase, with one dashboard and no subscription to cancel, a registrar with transparent first-year and renewal pricing, such as Cloudflare Registrar, NameSilo, or Spaceship, is the easier choice, at a higher yearly price.
 
