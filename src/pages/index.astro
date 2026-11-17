@@ -1,0 +1,29 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import Header from '../components/Header.astro';
+import { SITE_DESCRIPTION, SITE_TITLE } from '../consts';
+---
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+	</head>
+	<body>
+		<Header />
+		<main>
+			<h1>A world of xAI Pan</h1>
+			<p>
+				Notes on AI, DevOps, and building on the web.
+			</p>
+			<p>
+				Ideas, experiments, and notes — short posts, written in plain language.
+			</p>
+			<p>
+				<a href="/blog">Read the blog</a> · <a href="/about">About this blog</a>
+			</p>
+		</main>
+		<Footer />
+	</body>
+</html>
